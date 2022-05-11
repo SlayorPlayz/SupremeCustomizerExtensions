@@ -29,3 +29,9 @@ dependencies - Dependencies of the extension - NO
 
 The load() method loads the extension (Can contain nothing or a simple load message or anything really)
 The block() method provides the CodeBlock instance the extension makes. THIS IS MADE AFTER THE load() METHOD IS EXECUTED!
+
+#Example dependency
+
+![image](https://user-images.githubusercontent.com/68820364/167833116-528bcb1a-d443-4d70-857f-3521f4e0a8b6.png)
+
+There is no maven repo for it so just add the jar to your project.
