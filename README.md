@@ -15,17 +15,24 @@ dependencies - Dependencies of the extension - NO
 # Example block.yml with deps
 
 main: com.slayorplayz.supremecustomizerextension.Test
+
 api-version: '0.1-1'
+
 version: '1.0'
+
 name: 'Tester'
+
 dependencies:
   - SupremeBanks
 
 # Example block.yml without deps
 
 main: com.slayorplayz.supremecustomizerextension.Test
+
 api-version: '0.1-1'
+
 version: '1.0'
+
 name: 'Tester'
 
 # An extension main class requires 2 static methods (load() and block()) 
