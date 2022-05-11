@@ -7,9 +7,13 @@ Block.yml properties:
 Property - Descriptiom - Required
 
 main - Main class name - YES
+
 api-version: - API Version the extension uses - YES
+
 version - Version of the extension - YES
+
 name - Name of the extension - YES
+
 dependencies - Dependencies of the extension - NO
 
 # Example block.yml with deps
